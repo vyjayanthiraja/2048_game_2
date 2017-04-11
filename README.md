@@ -12,10 +12,7 @@ Dependencies:
 		python3 -m pip install getch
 		python3 -m pip install termcolor
 
-Structure of Repo: Bare starter files included. Check other GitHub repo for staff solution.
-
-2048 Spec: https://goo.gl/34kNbl
-
+Structure of Repo: Bare starter files included.
 
 Using the code:
 	
